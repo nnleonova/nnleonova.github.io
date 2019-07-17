@@ -1,0 +1,729 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nnleonova.github.io" resolutions="1x" timestamp="1563392917589">
+  <folder name="css">
+    <file name="site_global.css" crc="4028935867"/>
+    <file name="master_main.css" crc="4243247637" ref="about:studio-space:parametric-landmark:painting:take-a-chance-=-make-a-change:theatre-factory:travel-photography:writing:the-flow:life-drawing"/>
+    <file name="master_work.css" crc="382884038" ref="index"/>
+    <file name="about.css" crc="392920263" ref="about"/>
+    <file name="studio-space.css" crc="4228569178" ref="studio-space"/>
+    <file name="parametric-landmark.css" crc="432580110" ref="parametric-landmark"/>
+    <file name="painting.css" crc="417915032" ref="painting"/>
+    <file name="take-a-chance-_-make-a-change.css" crc="4239460840" ref="take-a-chance-=-make-a-change"/>
+    <file name="theatre-factory.css" crc="3846765842" ref="theatre-factory"/>
+    <file name="travel-photography.css" crc="4184993606" ref="travel-photography"/>
+    <file name="index.css" crc="477075981" ref="index"/>
+    <file name="writing.css" crc="235841454" ref="writing"/>
+    <file name="the-flow.css" crc="4249674699" ref="the-flow"/>
+    <file name="life-drawing.css" crc="481579707" ref="life-drawing"/>
+  </folder>
+  <folder name="assets">
+    <file name="framing-architecture-for-web.pdf" crc="3928805287" seo="true" mt="1478637082000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>painting:phone>life-drawing:phone>travel-photography:phone>writing:phone>theatre-factory:phone>the-flow:phone>studio-space:phone>parametric-landmark:phone>take-a-chance-=-make-a-change:phone>about:tablet>index:tablet>painting:tablet>life-drawing:tablet>travel-photography:tablet>writing:tablet>theatre-factory:tablet>the-flow:tablet>studio-space:tablet>parametric-landmark:tablet>take-a-chance-=-make-a-change:tablet>about:about:studio-space:theatre-factory:the-flow:life-drawing:painting:travel-photography:writing:parametric-landmark:take-a-chance-=-make-a-change:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>painting:phone>life-drawing:phone>travel-photography:phone>writing:phone>theatre-factory:phone>the-flow:phone>studio-space:phone>parametric-landmark:phone>take-a-chance-=-make-a-change:phone>about:tablet>index:tablet>painting:tablet>life-drawing:tablet>travel-photography:tablet>writing:tablet>theatre-factory:tablet>the-flow:tablet>studio-space:tablet>parametric-landmark:tablet>take-a-chance-=-make-a-change:tablet>about:about:studio-space:theatre-factory:the-flow:life-drawing:painting:travel-photography:writing:parametric-landmark:take-a-chance-=-make-a-change:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>painting:phone>life-drawing:phone>travel-photography:phone>writing:phone>theatre-factory:phone>the-flow:phone>studio-space:phone>parametric-landmark:phone>take-a-chance-=-make-a-change:phone>about:tablet>index:tablet>painting:tablet>life-drawing:tablet>travel-photography:tablet>writing:tablet>theatre-factory:tablet>the-flow:tablet>studio-space:tablet>parametric-landmark:tablet>take-a-chance-=-make-a-change:tablet>about:about:studio-space:theatre-factory:the-flow:life-drawing:painting:travel-photography:writing:parametric-landmark:take-a-chance-=-make-a-change:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>painting:phone>life-drawing:phone>travel-photography:phone>writing:phone>theatre-factory:phone>the-flow:phone>studio-space:phone>parametric-landmark:phone>take-a-chance-=-make-a-change:phone>about:tablet>index:tablet>painting:tablet>life-drawing:tablet>travel-photography:tablet>writing:tablet>theatre-factory:tablet>the-flow:tablet>studio-space:tablet>parametric-landmark:tablet>take-a-chance-=-make-a-change:tablet>about:about:studio-space:theatre-factory:the-flow:life-drawing:painting:travel-photography:writing:parametric-landmark:take-a-chance-=-make-a-change:index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>index:phone>painting:phone>life-drawing:phone>travel-photography:phone>writing:phone>theatre-factory:phone>the-flow:phone>studio-space:phone>parametric-landmark:phone>take-a-chance-=-make-a-change:phone>about:tablet>index:tablet>painting:tablet>life-drawing:tablet>travel-photography:tablet>writing:tablet>theatre-factory:tablet>the-flow:tablet>studio-space:tablet>parametric-landmark:tablet>take-a-chance-=-make-a-change:tablet>about:about:studio-space:theatre-factory:the-flow:life-drawing:painting:travel-photography:writing:parametric-landmark:take-a-chance-=-make-a-change:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>theatre-factory:tablet>index:tablet>theatre-factory:theatre-factory:the-flow"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:phone>theatre-factory:tablet>index:tablet>theatre-factory:theatre-factory:the-flow"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:phone>theatre-factory:tablet>index:tablet>theatre-factory:theatre-factory:the-flow"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>theatre-factory:tablet>index:tablet>theatre-factory:theatre-factory:the-flow"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>painting:phone>life-drawing:phone>travel-photography:phone>writing:phone>theatre-factory:phone>the-flow:phone>studio-space:phone>parametric-landmark:phone>take-a-chance-=-make-a-change:phone>about:tablet>index:tablet>painting:tablet>life-drawing:tablet>travel-photography:tablet>writing:tablet>theatre-factory:tablet>the-flow:tablet>studio-space:tablet>parametric-landmark:tablet>take-a-chance-=-make-a-change:tablet>about:about:studio-space:theatre-factory:the-flow:life-drawing:painting:travel-photography:writing:parametric-landmark:take-a-chance-=-make-a-change:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>painting:phone>life-drawing:phone>travel-photography:phone>writing:phone>theatre-factory:phone>the-flow:phone>studio-space:phone>parametric-landmark:phone>take-a-chance-=-make-a-change:phone>about:tablet>index:tablet>painting:tablet>life-drawing:tablet>travel-photography:tablet>writing:tablet>theatre-factory:tablet>the-flow:tablet>studio-space:tablet>parametric-landmark:tablet>take-a-chance-=-make-a-change:tablet>about:about:studio-space:theatre-factory:the-flow:life-drawing:painting:travel-photography:writing:parametric-landmark:take-a-chance-=-make-a-change:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>painting:phone>life-drawing:phone>travel-photography:phone>writing:phone>theatre-factory:phone>the-flow:phone>studio-space:phone>parametric-landmark:phone>take-a-chance-=-make-a-change:phone>about:tablet>index:tablet>painting:tablet>life-drawing:tablet>travel-photography:tablet>writing:tablet>theatre-factory:tablet>the-flow:tablet>studio-space:tablet>parametric-landmark:tablet>take-a-chance-=-make-a-change:tablet>about:about:studio-space:theatre-factory:the-flow:life-drawing:painting:travel-photography:writing:parametric-landmark:take-a-chance-=-make-a-change:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u12570-4.png" crc="258381379" ref="phone>index:phone>painting:phone>life-drawing:phone>travel-photography:phone>writing:phone>theatre-factory:phone>the-flow:phone>studio-space:phone>parametric-landmark:phone>take-a-chance-=-make-a-change:phone>about"/>
+    <file name="arrowmenuright.png" crc="41086373" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a3_model image-crop-u13670.jpg" crc="297199355" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>theatre-factory:tablet>index:tablet>theatre-factory:theatre-factory:the-flow"/>
+    <file name="img_8064344x229.png" crc="3926381199" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pr2 nature photo study-crop-u13678.jpg" crc="3840675025" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scan 18352x215.jpg" crc="4258811453" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo153x229.png" crc="19412430" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>theatre-factory:tablet>index:tablet>theatre-factory:theatre-factory:the-flow"/>
+    <file name="dsc_1734 copy-crop-u13969.jpg" crc="323124660" seo="true" ref="phone>painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="dsc_1712-crop-u13971.jpg" crc="4057458501" seo="true" ref="phone>painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="dsc_5330379x282.jpg" crc="279873330" seo="true" ref="phone>painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="dsc_5403-crop-u13977.jpg" crc="4017207640" seo="true" ref="phone>painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="etching.jpg" crc="467982402" seo="true" ref="phone>painting:tablet>painting:painting">
+      <caption webpage="painting" alt=""/>
+      <caption webpage="painting" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="painting-crop-u13982.jpg" crc="418045886" seo="true" ref="phone>painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="pattern_book_nadezda-crop-u13985.jpg" crc="62046821" seo="true" ref="phone>painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="scan 18-crop-u14233.jpg" crc="522933757" seo="true" ref="phone>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="life drawing 2-crop-u14235.jpg" crc="91778129" seo="true" ref="phone>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="life drawing 5-crop-u14237.jpg" crc="3924156339" seo="true" ref="phone>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="life drawing 1-crop-u14239.jpg" crc="297693019" seo="true" ref="phone>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="scan0002 (2) copy-crop-u14241.jpg" crc="4132669852" seo="true" ref="phone>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="scan0007 (2) copy-crop-u14243.jpg" crc="4293052871" seo="true" ref="phone>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="dsc_1712 copy-crop-u14245.jpg" crc="80579422" seo="true" ref="phone>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="dsc_7623379x255.jpg" crc="155879986" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_0043379x255.jpg" crc="449349731" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_0758379x255.jpg" crc="4173950798" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_6158379x255.jpg" crc="3832431101" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_0541379x255.jpg" crc="4003882389" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_4958-crop-u18070.jpg" crc="4002330537" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_0052379x255.jpg" crc="16341938" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="egypt-(3)-crop-u18074.jpg" crc="250692870" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_0194379x255.jpg" crc="4267712703" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="image22379x255.jpg" crc="3985103544" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_4127379x255.jpg" crc="4182859381" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_3649379x255.jpg" crc="66237785" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_3054379x255.jpg" crc="168190018" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_9278379x255.jpg" crc="4206533211" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="imag1849-crop-u18096.jpg" crc="156766583" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc02031-crop-u18098.jpg" crc="254506191" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc01686-crop-u18105.jpg" crc="67595012" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc02343-crop-u18107.jpg" crc="136393383" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc02153-crop-u18111.jpg" crc="468017231" seo="true" ref="phone>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="pr2 pg11-crop-u14977.jpg" crc="3981641052" seo="true" ref="phone>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="pr2 pg12379x173.jpg" crc="382879146" seo="true" ref="phone>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="pr2 pg13-crop-u14975.jpg" crc="277631766" seo="true" ref="phone>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="pr2 nature photo study.jpg" crc="3854209292" seo="true" ref="phone>theatre-factory:tablet>theatre-factory:theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+      <caption webpage="theatre-factory" alt=""/>
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="model 1-500.jpg" crc="408613314" seo="true" ref="phone>theatre-factory:tablet>theatre-factory:theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+      <caption webpage="theatre-factory" alt=""/>
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="views-crop-u15004.jpg" crc="489021683" seo="true" ref="phone>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="(a1)-pr2-analytical-drawing-rotated323x457.jpg" crc="3840573819" seo="true" ref="phone>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="a51.jpg" crc="464080972" seo="true" ref="phone>theatre-factory:tablet>theatre-factory:theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+      <caption webpage="theatre-factory" alt=""/>
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="a52-crop-u18878.jpg" crc="3980869603" seo="true" ref="phone>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="a53.jpg" crc="3957551341" seo="true" ref="phone>theatre-factory:tablet>theatre-factory:theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+      <caption webpage="theatre-factory" alt=""/>
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="a3-proposed-site-plan-crop-u18882.jpg" crc="3808732667" seo="true" ref="phone>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="a3-long-section-crop-u18885.jpg" crc="4029882450" seo="true" ref="phone>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="collage379x268.jpg" crc="510663024" seo="true" ref="phone>the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="img_8064379x253.png" crc="3905239314" seo="true" ref="phone>studio-space">
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="img_7871379x224.jpg" crc="356999788" seo="true" ref="phone>studio-space">
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="img_7938-crop-u15670.jpg" crc="3904254862" seo="true" ref="phone>studio-space">
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="img_7967379x568.jpg" crc="62994409" seo="true" ref="phone>studio-space">
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="img_7995379x568.jpg" crc="4117267463" seo="true" ref="phone>studio-space">
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="img_8008-crop-u15672.jpg" crc="286281063" seo="true" ref="phone>studio-space">
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="img_1582-crop-u15835.jpg" crc="375275811" seo="true" ref="phone>parametric-landmark">
+      <caption webpage="parametric-landmark" alt=""/>
+    </file>
+    <file name="img_1496-crop-u15828.jpg" crc="152509755" seo="true" ref="phone>parametric-landmark">
+      <caption webpage="parametric-landmark" alt=""/>
+    </file>
+    <file name="img_0644-crop-u15833.jpg" crc="469500092" seo="true" ref="phone>parametric-landmark">
+      <caption webpage="parametric-landmark" alt=""/>
+    </file>
+    <file name="photo378x566.png" crc="3875463833" seo="true" ref="phone>take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="534283_10201402342397285_418808345_n378x253.jpg" crc="3805726904" seo="true" ref="phone>take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="981932_10153227917725594_1600405147_o-crop-u16068.jpg" crc="4027327059" seo="true" ref="phone>take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="537830_10201402347397410_637637964_n378x566.jpg" crc="12343561" seo="true" ref="phone>take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="1146163_10153178084475711_2035331360_o379x253.jpg" crc="75319039" seo="true" ref="phone>take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="1150143_10201402362597790_374593708_n379x567.jpg" crc="4196055749" seo="true" ref="phone>take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="nikon d802426 copy379x255.jpg" crc="292550303" seo="true" ref="phone>about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="linkedinlogo.svg" crc="141029368" seo="true" ref="phone>about:tablet>about:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="linkedinlogo_poster_.png" crc="4118138206" ref="phone>about"/>
+    <file name="emailicon.png" crc="4170797459" seo="true" ref="phone>about:tablet>about:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u10346-4.png" crc="3988906243" ref="tablet>index:tablet>painting:tablet>life-drawing:tablet>travel-photography:tablet>writing:tablet>theatre-factory:tablet>the-flow:tablet>studio-space:tablet>parametric-landmark:tablet>take-a-chance-=-make-a-change:tablet>about"/>
+    <file name="a3_model image.jpg" crc="307670501" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8064.png" crc="3812754909" seo="true" ref="tablet>index:tablet>studio-space:studio-space">
+      <caption webpage="index" alt=""/>
+      <caption webpage="studio-space" alt=""/>
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="pr2 nature photo study2.jpg" crc="4176354027" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scan 18.jpg" crc="74545718" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo240x360.png" crc="4159791145" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_1734 copy-crop-u10966.jpg" crc="4115210560" seo="true" ref="tablet>painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="dsc_1712-crop-u10968.jpg" crc="300052504" seo="true" ref="tablet>painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="dsc_5330.jpg" crc="4225617010" seo="true" ref="tablet>painting:painting">
+      <caption webpage="painting" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="dsc_5403-crop-u10974.jpg" crc="67444846" seo="true" ref="tablet>painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="painting-crop-u10979.jpg" crc="3922755265" seo="true" ref="tablet>painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="pattern_book_nadezda-crop-u10982.jpg" crc="3860729492" seo="true" ref="tablet>painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="scan 18-crop-u11557.jpg" crc="330273271" seo="true" ref="tablet>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="life drawing 2-crop-u11559.jpg" crc="4180047249" seo="true" ref="tablet>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="life drawing 5-crop-u11561.jpg" crc="170957801" seo="true" ref="tablet>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="life drawing 1-crop-u11563.jpg" crc="3894824802" seo="true" ref="tablet>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="scan0002 (2) copy-crop-u11565.jpg" crc="3980451816" seo="true" ref="tablet>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="scan0007 (2) copy-crop-u11567.jpg" crc="4017487190" seo="true" ref="tablet>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="dsc_1712 copy-crop-u11569.jpg" crc="4203996134" seo="true" ref="tablet>life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="dsc_7623.jpg" crc="4168805277" seo="true" ref="tablet>travel-photography:travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_0043.jpg" crc="130222547" seo="true" ref="tablet>travel-photography:travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_0758.jpg" crc="4226765182" seo="true" ref="tablet>travel-photography:travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_6158.jpg" crc="4079711079" seo="true" ref="tablet>travel-photography:travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_0541.jpg" crc="4191697496" seo="true" ref="tablet>travel-photography:travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_4958-crop-u17770.jpg" crc="406354573" seo="true" ref="tablet>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_0052.jpg" crc="3814626693" seo="true" ref="tablet>travel-photography:travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="egypt-(3)-crop-u17774.jpg" crc="3952449333" seo="true" ref="tablet>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_0194.jpg" crc="4000617348" seo="true" ref="tablet>travel-photography:travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="image22.jpg" crc="267621121" seo="true" ref="tablet>travel-photography:travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_4127.jpg" crc="3992887603" seo="true" ref="tablet>travel-photography:travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_3649.jpg" crc="35006737" seo="true" ref="tablet>travel-photography:travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_3054.jpg" crc="4069708284" seo="true" ref="tablet>travel-photography:travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc_9278.jpg" crc="22799339" seo="true" ref="tablet>travel-photography:travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="imag1849-crop-u17796.jpg" crc="3896800807" seo="true" ref="tablet>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc02031-crop-u17798.jpg" crc="4004392769" seo="true" ref="tablet>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc01686-crop-u17805.jpg" crc="4119740416" seo="true" ref="tablet>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc02343-crop-u17807.jpg" crc="3818422176" seo="true" ref="tablet>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc02153-crop-u17811.jpg" crc="4162869855" seo="true" ref="tablet>travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="pr2 pg11-crop-u11764.jpg" crc="4040569232" seo="true" ref="tablet>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="pr2 pg12-crop-u11766.jpg" crc="3792335385" seo="true" ref="tablet>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="pr2 pg13-crop-u11768.jpg" crc="3798553644" seo="true" ref="tablet>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="views-crop-u11794.jpg" crc="469412051" seo="true" ref="tablet>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="(a1)-pr2-analytical-drawing-rotated.jpg" crc="4012564616" seo="true" ref="tablet>theatre-factory:theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="a52-crop-u18996.jpg" crc="386704564" seo="true" ref="tablet>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="a3-proposed-site-plan-crop-u19000.jpg" crc="515297422" seo="true" ref="tablet>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="a3-long-section-crop-u19003.jpg" crc="70393344" seo="true" ref="tablet>theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="collage.jpg" crc="86338091" seo="true" ref="tablet>the-flow:the-flow">
+      <caption webpage="the-flow" alt=""/>
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="img_7871.jpg" crc="135421285" seo="true" ref="tablet>studio-space:studio-space">
+      <caption webpage="studio-space" alt=""/>
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="img_7938-crop-u11971.jpg" crc="3820778015" seo="true" ref="tablet>studio-space">
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="img_7967.jpg" crc="4279884529" seo="true" ref="tablet>studio-space:studio-space">
+      <caption webpage="studio-space" alt=""/>
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="img_7995.jpg" crc="4291212219" seo="true" ref="tablet>studio-space:studio-space">
+      <caption webpage="studio-space" alt=""/>
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="img_8008-crop-u11973.jpg" crc="3999007051" seo="true" ref="tablet>studio-space">
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="img_1582-crop-u12023.jpg" crc="3978909974" seo="true" ref="tablet>parametric-landmark">
+      <caption webpage="parametric-landmark" alt=""/>
+    </file>
+    <file name="img_1496-crop-u12016.jpg" crc="3909155790" seo="true" ref="tablet>parametric-landmark">
+      <caption webpage="parametric-landmark" alt=""/>
+    </file>
+    <file name="img_0644-crop-u12021.jpg" crc="4142416077" seo="true" ref="tablet>parametric-landmark">
+      <caption webpage="parametric-landmark" alt=""/>
+    </file>
+    <file name="photo.png" crc="3977193936" seo="true" ref="tablet>take-a-chance-=-make-a-change:take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="534283_10201402342397285_418808345_n.jpg" crc="281586405" seo="true" ref="tablet>take-a-chance-=-make-a-change:take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="981932_10153227917725594_1600405147_o-crop-u12052.jpg" crc="4220978434" seo="true" ref="tablet>take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="537830_10201402347397410_637637964_n.jpg" crc="4016050305" seo="true" ref="tablet>take-a-chance-=-make-a-change:take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="1146163_10153178084475711_2035331360_o.jpg" crc="346880818" seo="true" ref="tablet>take-a-chance-=-make-a-change:take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="1150143_10201402362597790_374593708_n.jpg" crc="224685361" seo="true" ref="tablet>take-a-chance-=-make-a-change:take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="nikon d802426 copy-crop-u12118.jpg" crc="3905784805" seo="true" ref="tablet>about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="logo.svg" crc="3856013894" seo="true" ref="about:studio-space:theatre-factory:the-flow:life-drawing:painting:travel-photography:writing:parametric-landmark:take-a-chance-=-make-a-change:index">
+      <caption webpage="about" alt=""/>
+      <caption webpage="painting" alt=""/>
+      <caption webpage="the-flow" alt=""/>
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+      <caption webpage="travel-photography" alt=""/>
+      <caption webpage="studio-space" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="theatre-factory" alt=""/>
+      <caption webpage="life-drawing" alt=""/>
+      <caption webpage="writing" alt=""/>
+      <caption webpage="parametric-landmark" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="420745908" ref="about"/>
+    <file name="nikon d802426 copy-crop-u9866.jpg" crc="3905784805" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="img_7938-crop-u6882.jpg" crc="3820778015" seo="true" ref="studio-space">
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="img_8008-crop-u6895.jpg" crc="3999007051" seo="true" ref="studio-space">
+      <caption webpage="studio-space" alt=""/>
+    </file>
+    <file name="pr2 pg11-crop-u6953.jpg" crc="4040569232" seo="true" ref="theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="pr2 pg12-crop-u7072.jpg" crc="3792335385" seo="true" ref="theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="pr2 pg13-crop-u7092.jpg" crc="3798553644" seo="true" ref="theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="views-crop-u7150.jpg" crc="469412051" seo="true" ref="theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="a52-crop-u18649.jpg" crc="386704564" seo="true" ref="theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="a3-proposed-site-plan-crop-u18688.jpg" crc="515297422" seo="true" ref="theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="a3-long-section-crop-u18708.jpg" crc="70393344" seo="true" ref="theatre-factory">
+      <caption webpage="theatre-factory" alt=""/>
+    </file>
+    <file name="bookcover.jpg" crc="3954815897" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="s1-crop-u19105.jpg" crc="4271661255" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="s3-copy-crop-u19085.jpg" crc="64615436" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="s2-copy-crop-u19045.jpg" crc="3987069634" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="roof-plan-with-context-1-crop-u19125.jpg" crc="4022960109" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="location-map1-copy-crop-u19145.jpg" crc="4010354701" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="model1200-crop-u19165.png" crc="4144697847" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="east-elevation-1200-a1.png" crc="4262496616" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="existing-section1.jpg" crc="211503487" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="existing-section2.jpg" crc="284913931" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="final-gf-plan-1-crop-u19245.png" crc="500903117" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="final-rp-1-crop-u19248.jpg" crc="3811120314" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="scan 16193x260.jpg" crc="488116559" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="scan 17300x221.jpg" crc="3792515936" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="scan 16.jpg" crc="505845708" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="scan 17.jpg" crc="4196975301" seo="true" ref="the-flow">
+      <caption webpage="the-flow" alt=""/>
+    </file>
+    <file name="scan 18-crop-u8359.jpg" crc="4135363685" seo="true" ref="life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="life drawing 2-crop-u8810.jpg" crc="270512127" seo="true" ref="life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="life drawing 5-crop-u8865.jpg" crc="38016878" seo="true" ref="life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="life drawing 1-crop-u8890.jpg" crc="3894824802" seo="true" ref="life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="scan0002 (2) copy-crop-u9002.jpg" crc="3980451816" seo="true" ref="life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="scan0007 (2) copy-crop-u9032.jpg" crc="4017487190" seo="true" ref="life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="dsc_1712 copy-crop-u9252.jpg" crc="4203996134" seo="true" ref="life-drawing">
+      <caption webpage="life-drawing" alt=""/>
+    </file>
+    <file name="dsc_1734 copy-crop-u9147.jpg" crc="4115210560" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="dsc_1712-crop-u9174.jpg" crc="300052504" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="dsc_5403-crop-u9293.jpg" crc="67444846" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="painting-crop-u9437.jpg" crc="3922755265" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="pattern_book_nadezda-crop-u9457.jpg" crc="3860729492" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="dsc_4958-crop-u17438.jpg" crc="406354573" seo="true" ref="travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="egypt-(3)-crop-u17442.jpg" crc="3952449333" seo="true" ref="travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="imag1849-crop-u17544.jpg" crc="3896800807" seo="true" ref="travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc02031-crop-u17546.jpg" crc="4004392769" seo="true" ref="travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc01686-crop-u17709.jpg" crc="4119740416" seo="true" ref="travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc02343-crop-u17711.jpg" crc="3818422176" seo="true" ref="travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="dsc02153-crop-u17749.jpg" crc="4162869855" seo="true" ref="travel-photography">
+      <caption webpage="travel-photography" alt=""/>
+    </file>
+    <file name="img_1582-crop-u9511.jpg" crc="3978909974" seo="true" ref="parametric-landmark">
+      <caption webpage="parametric-landmark" alt=""/>
+    </file>
+    <file name="img_1496-crop-u3928.jpg" crc="3909155790" seo="true" ref="parametric-landmark">
+      <caption webpage="parametric-landmark" alt=""/>
+    </file>
+    <file name="img_0644-crop-u9494.jpg" crc="4142416077" seo="true" ref="parametric-landmark">
+      <caption webpage="parametric-landmark" alt=""/>
+    </file>
+    <file name="981932_10153227917725594_1600405147_o-crop-u4090.jpg" crc="4220978434" seo="true" ref="take-a-chance-=-make-a-change">
+      <caption webpage="take-a-chance-=-make-a-change" alt=""/>
+    </file>
+    <file name="scan-18_cl-u19362-fr.png" crc="3793355146" ref="index"/>
+    <file name="dsc_1734-copy_cl.jpg" crc="465950761" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0927_cl.jpg" crc="448486346" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="roof-plan-with-context-1_cl.jpg" crc="4292726370" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="roof-plan-with-context-1_cl-u19391-r-fr.png" crc="3846511031" ref="index"/>
+    <file name="a52_cl.jpg" crc="526504724" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc02031_cl.jpg" crc="517045165" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="step-9_10_bw.jpg" crc="78210887" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="step-9_10_bw-u19459-r-fr.png" crc="335190025" ref="index"/>
+    <file name="framing-architecture-for-web-17_cl.jpg" crc="3958932581" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="takeachance_cl.jpg" crc="4164977612" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_main.css" crc="3953524603" ref="tablet>about:tablet>parametric-landmark:tablet>travel-photography:tablet>writing:tablet>index:tablet>life-drawing:tablet>painting:tablet>theatre-factory:tablet>take-a-chance-=-make-a-change:tablet>studio-space:tablet>the-flow"/>
+      <file name="about.css" crc="4103193454" ref="tablet>about"/>
+      <file name="parametric-landmark.css" crc="314947445" ref="tablet>parametric-landmark"/>
+      <file name="travel-photography.css" crc="204506803" ref="tablet>travel-photography"/>
+      <file name="writing.css" crc="204239032" ref="tablet>writing"/>
+      <file name="index.css" crc="372812664" ref="tablet>index"/>
+      <file name="life-drawing.css" crc="3797227667" ref="tablet>life-drawing"/>
+      <file name="painting.css" crc="346283521" ref="tablet>painting"/>
+      <file name="theatre-factory.css" crc="314423436" ref="tablet>theatre-factory"/>
+      <file name="take-a-chance-_-make-a-change.css" crc="160681681" ref="tablet>take-a-chance-=-make-a-change"/>
+      <file name="studio-space.css" crc="64438703" ref="tablet>studio-space"/>
+      <file name="the-flow.css" crc="4018351019" ref="tablet>the-flow"/>
+    </folder>
+    <file name="index.html" crc="192437546" seo="true" mt="1563392591959" redirect="true"/>
+    <file name="painting.html" crc="351125553" seo="true" mt="1563392591959" redirect="true"/>
+    <file name="life-drawing.html" crc="4189378283" seo="true" mt="1563392591959" redirect="true"/>
+    <file name="travel-photography.html" crc="264510434" seo="true" mt="1563392591959" redirect="true"/>
+    <file name="writing.html" crc="3980539066" seo="true" mt="1563392591959" redirect="true"/>
+    <file name="theatre-factory.html" crc="3807570002" seo="true" mt="1563392591959" redirect="true"/>
+    <file name="the-flow.html" crc="350422051" seo="true" mt="1563392591959" redirect="true"/>
+    <file name="studio-space.html" crc="368990886" seo="true" mt="1563392591959" redirect="true"/>
+    <file name="parametric-landmark.html" crc="432210237" seo="true" mt="1563392591959" redirect="true"/>
+    <file name="take-a-chance-=-make-a-change.html" crc="429691867" seo="true" mt="1563392591959" redirect="true"/>
+    <file name="about.html" crc="144871208" seo="true" mt="1563392708560" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_main.css" crc="4072556042" ref="phone>parametric-landmark:phone>about:phone>studio-space:phone>travel-photography:phone>index:phone>writing:phone>the-flow:phone>theatre-factory:phone>painting:phone>take-a-chance-=-make-a-change:phone>life-drawing"/>
+      <file name="parametric-landmark.css" crc="132543454" ref="phone>parametric-landmark"/>
+      <file name="about.css" crc="150842601" ref="phone>about"/>
+      <file name="studio-space.css" crc="4133686641" ref="phone>studio-space"/>
+      <file name="travel-photography.css" crc="205490563" ref="phone>travel-photography"/>
+      <file name="index.css" crc="61797448" ref="phone>index"/>
+      <file name="writing.css" crc="4263094857" ref="phone>writing"/>
+      <file name="the-flow.css" crc="3928391765" ref="phone>the-flow"/>
+      <file name="theatre-factory.css" crc="4246033245" ref="phone>theatre-factory"/>
+      <file name="painting.css" crc="239631799" ref="phone>painting"/>
+      <file name="take-a-chance-_-make-a-change.css" crc="192128627" ref="phone>take-a-chance-=-make-a-change"/>
+      <file name="life-drawing.css" crc="92861692" ref="phone>life-drawing"/>
+    </folder>
+    <file name="index.html" crc="4243033672" seo="true" mt="1563392773246" redirect="true"/>
+    <file name="painting.html" crc="4162824573" seo="true" mt="1563392773246" redirect="true"/>
+    <file name="life-drawing.html" crc="4171817629" seo="true" mt="1563392773246" redirect="true"/>
+    <file name="travel-photography.html" crc="4227925779" seo="true" mt="1563392773246" redirect="true"/>
+    <file name="writing.html" crc="3805590822" seo="true" mt="1563392773246" redirect="true"/>
+    <file name="theatre-factory.html" crc="3831256483" seo="true" mt="1563392773246" redirect="true"/>
+    <file name="the-flow.html" crc="4188704290" seo="true" mt="1563392773246" redirect="true"/>
+    <file name="studio-space.html" crc="235677804" seo="true" mt="1563392773246" redirect="true"/>
+    <file name="parametric-landmark.html" crc="4053125888" seo="true" mt="1563392773246" redirect="true"/>
+    <file name="take-a-chance-=-make-a-change.html" crc="4226668" seo="true" mt="1563392773246" redirect="true"/>
+    <file name="about.html" crc="411500961" seo="true" mt="1563392773246" redirect="true"/>
+  </folder>
+  <file name="about.html" crc="516684217" seo="true" mt="1563392729007" redirect="true"/>
+  <file name="studio-space.html" crc="255346861" seo="true" mt="1563392555669" redirect="true"/>
+  <file name="theatre-factory.html" crc="525110937" seo="true" mt="1563392555669" redirect="true"/>
+  <file name="the-flow.html" crc="164267404" seo="true" mt="1563392555669" redirect="true"/>
+  <file name="life-drawing.html" crc="475688537" seo="true" mt="1563392555669" redirect="true"/>
+  <file name="painting.html" crc="442501297" seo="true" mt="1563392555669" redirect="true"/>
+  <file name="travel-photography.html" crc="272083011" seo="true" mt="1563392555669" redirect="true"/>
+  <file name="writing.html" crc="4015116683" seo="true" mt="1563392555669" redirect="true"/>
+  <file name="parametric-landmark.html" crc="3920742207" seo="true" mt="1563392555669" redirect="true"/>
+  <file name="take-a-chance-=-make-a-change.html" crc="3762202573" seo="true" mt="1563392555669" redirect="true"/>
+  <file name="index.html" crc="4073274905" seo="true" mt="1563392572167" redirect="true"/>
+</manifest>
